@@ -1,5 +1,6 @@
-# Fine Tuning of DiziriBERT with PEFT + LoRA
-### For Binary Classification
+# Fine Tuning of DiziriBERT with PEFT + LoRA For Binary Classification
+
+## This model's objective is to classify Algerian dialect text as either Hateful or Non-Hateful
 
 1. Import Libraries
 Import necessary libraries such as Transformers, PyTorch, and Pandas.
