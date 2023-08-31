@@ -1,4 +1,5 @@
 # Fine Tuning of DiziriBERT with PEFT + LoRA
+### For Binary Classification
 
 1. Import Libraries
 Import necessary libraries such as Transformers, PyTorch, and Pandas.
